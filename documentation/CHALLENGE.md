@@ -1,4 +1,5 @@
 # Front-end Challenge
+
 Hello friend! We are very excited to invite you to our selection process for new front-end candidates.
 
 The idea behind this coding challenge (or take-home assignment) is to understand better how you work on specific front-end tasks, your thought process, and how you design your code.
@@ -10,6 +11,7 @@ You will have one whole week to finish this and deliver it to our team. If you n
 ### Evaluation Topics
 
 To make this test super transparent, we are going to evaluate the following topics in your code once you deliver it, in no particular order:
+
 - Challenge completeness
 - Challenge proposal comprehension
 - Idiomatic writing
@@ -24,7 +26,9 @@ To make this test super transparent, we are going to evaluate the following topi
 This test is a window into your work, so take your time, use the time to create something with quality that showcases your understanding of the frontend ecosystem, tooling, and best practices.
 
 ### Restrictions
+
 There are a few restrictions on your choices to develop this test. You should create this solution using any of the following:
+
 - React
 - Preact
 - Any React compatible framework (Next, Gatsby, among others)
@@ -38,9 +42,11 @@ Remember, while we are giving some constraints, we will ask you to justify your 
 - You can use any CSS framework you deem appropriate, such as Tailwind, but you cannot use component libraries, like MDI or bootstrap.
 
 ## Challenge
+
 So, we are huge Pokémon fans, and we love them, and we want to catch them all. We want you to design and implement a Pokedex from scratch, using freely available APIs (https://pokeapi.co/).
 
 ### Pokemon List
+
 Create a project that can connect to PokeAPI and show us a list of Pokémon. There are several Pokémon in PokeAPI, so be sure that the website can handle all the Pokémon and display them organized.
 
 There is no suggested UI design for this project, so you can be as creative as you’d like.
@@ -59,7 +65,9 @@ Here are a few references you can take a look at from famous pokémon related we
 - Marriland
 
 ### Pokemon Detail
+
 Create a page that shows the pokemon’s details with the following information:
+
 - Dex Number
 - Name
 - Types

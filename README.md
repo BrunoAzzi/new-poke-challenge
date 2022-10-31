@@ -1,6 +1,9 @@
 # The Challenge
 
-This is a project to implement a pokedos based on a (in)famous pokemon hiring challenge, here is the complete description of what we need to do: [Pokedex-challenge](CHALLENGE.md)
+This is a project to implement a pokedos based on a (in)famous pokemon hiring challenge, here is the complete description of what we need to do: 
+
+- [en] [Pokedex-challenge](documentation/CHALLENGE.md)
+- [pt-br] [Pokedex-challenge](documentation/CHALLENGE.pt-br.md)
 
 # Getting Started with Create React App
 
