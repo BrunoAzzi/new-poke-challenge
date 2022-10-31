@@ -1,3 +1,7 @@
+# The Challenge
+
+This is a project to implement a pokedos based on a (in)famous pokemon hiring challenge, here is the complete description of what we need to do: [Pokedex-challenge](CHALLENGE.md)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
